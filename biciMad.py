@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # # BiciMAD
-# Practica de Sandra Fjelkestam, Greg Coletti, Lia Poidomani/Andrea Amato
+# Practica de Sandra Fjelkestam, Greg Coletti, Lia Poidomani
 # 
 # We are about to analyse the dataset kindly offered by BiciMad at this link
 # https://opendata.emtmadrid.es/Datos-estaticos/Datos-generales-(1). 
